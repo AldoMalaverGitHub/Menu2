@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Menu2</string>
+    <string name="question">What would you like to order today?</string>
+    <string name="dish1">Aji de Gallina</string>
+    <string name="dish2">Ocopa</string>
+    <string name="dish3">Sopa de Casa</string>
+    <string name="order">Ordenar</string>
+</resources>
